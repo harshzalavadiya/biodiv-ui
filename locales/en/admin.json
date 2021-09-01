@@ -6,7 +6,7 @@
     "notification": {
       "form": {
         "body": "Body",
-        "error": "Could not send notification",
+        "error": "Could not send notification!",
         "icon": "Icon",
         "link": "Link",
         "success": "Notification sent",
